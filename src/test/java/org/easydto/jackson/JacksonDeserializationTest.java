@@ -1,6 +1,6 @@
-package com.easydto.jackson;
+package org.easydto.jackson;
 
-import com.easydto.jackson.domain.Student;
+import org.easydto.jackson.domain.Student;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JavaType;
 import com.fasterxml.jackson.databind.ObjectMapper;

@@ -1,4 +1,4 @@
-package com.easydto.jackson.domain;
+package org.easydto.jackson.domain;
 
 
 import org.easydto.annotation.DtoProperty;

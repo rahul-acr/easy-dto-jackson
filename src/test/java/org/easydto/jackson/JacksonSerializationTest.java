@@ -1,7 +1,7 @@
-package com.easydto.jackson;
+package org.easydto.jackson;
 
-import com.easydto.jackson.domain.Department;
-import com.easydto.jackson.domain.Student;
+import org.easydto.jackson.domain.Department;
+import org.easydto.jackson.domain.Student;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.easydto.proxy.Dto;
 import org.junit.jupiter.api.BeforeAll;

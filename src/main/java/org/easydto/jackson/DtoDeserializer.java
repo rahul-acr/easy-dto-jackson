@@ -1,4 +1,4 @@
-package com.easydto.jackson;
+package org.easydto.jackson;
 
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.BeanProperty;

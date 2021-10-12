@@ -1,9 +1,9 @@
-package com.easydto.jackson.domain;
+package org.easydto.jackson.domain;
 
 import org.easydto.annotation.DtoProperty;
 
-import static com.easydto.jackson.domain.DtoProfileConstants.BATCH;
-import static com.easydto.jackson.domain.DtoProfileConstants.REST;
+import static org.easydto.jackson.domain.DtoProfileConstants.BATCH;
+import static org.easydto.jackson.domain.DtoProfileConstants.REST;
 
 public class Student {
 

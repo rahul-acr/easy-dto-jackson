@@ -1,4 +1,4 @@
-package com.easydto.jackson;
+package org.easydto.jackson;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.module.SimpleModule;

@@ -1,4 +1,4 @@
-package com.easydto.jackson.domain;
+package org.easydto.jackson.domain;
 
 public interface DtoProfileConstants {
     String REST = "REST";
